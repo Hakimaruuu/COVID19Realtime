@@ -1,5 +1,5 @@
 # COVID19Realtime
-All of this worked thanks to IG: @dark.coding
+For all of this thanks to IG: @dark.coding
 
 1. Install the tar.gz file, simply click Setup.py
 2. In Anaconda/ IDE, open the IPhyton console (Ctrl + T)
